@@ -1,13 +1,5 @@
-gspread
-oauth2client
-google-auth
-google-auth-oauthlib
-google-auth-httplib2
-requests
-discord.py
-flask
 fastapi
-uvicorn[standard]
+uvicorn
 gspread
-google-auth
 requests
+google-auth
