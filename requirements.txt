@@ -6,3 +6,8 @@ google-auth-httplib2
 requests
 discord.py
 flask
+fastapi
+uvicorn[standard]
+gspread
+google-auth
+requests
